@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.carrefour.controlefluxocaixa.repository.LancamentoRepositoryTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.479 s - in br.com.carrefour.controlefluxocaixa.repository.LancamentoRepositoryTests
