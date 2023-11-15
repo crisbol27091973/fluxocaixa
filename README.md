@@ -73,7 +73,7 @@ git clone https://github.com/crisbol27091973/fluxocaixa.git
 cd controle-fluxo-caixa
 ```
 
-# Comor rodar o comando que segue abaixo para compilar e empacotar o projeto:
+# Como rodar o comando que segue abaixo para compilar e empacotar o projeto:
 
 ```
 mvn clean package
