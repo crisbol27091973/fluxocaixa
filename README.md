@@ -68,7 +68,7 @@ Para executar o projeto, deve se ter instalado o Java 17 e o Maven.
 git clone https://github.com/crisbol27091973/fluxocaixa.git
 ```
 
-# Comom entrar na pasta do projeto:
+# Como entrar na pasta do projeto:
 ```
 cd controle-fluxo-caixa
 ```
