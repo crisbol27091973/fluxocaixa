@@ -103,7 +103,7 @@ A resposta será um token JWT, que deve ser incluído no header das requisiçõe
 
 # Como realizar os testes unitários
 
-Segue abaixo o comandp para executar os testes unitários:
+Segue abaixo o comando para executar os testes unitários:
 
 ```
 mvn test
